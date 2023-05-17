@@ -1,2 +1,2 @@
 # SongPlayer
-Creating a song player with Java!
+Creating a project with the logic of a song player in Java!
